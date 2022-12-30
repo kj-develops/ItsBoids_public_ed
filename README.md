@@ -28,4 +28,4 @@ Click the mouse in the game window to spawn the hoik.
   src="/itsboids_scare.jpg"
   alt="Picture of the game in play"
   title="ItsBoids in play"
-  style="display: inline-block; margin: 2px auto; max-width: 10px">
+  style="display: inline-block; margin: 2px auto; max-width: 300px">
